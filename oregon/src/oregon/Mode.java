@@ -18,7 +18,7 @@ public class Mode {
 			
 		
 		modes[0]= new Mode(1600, "A rich, fat banker. The wealth of the banker, "
-				+ "may hep getting started on the strip to Oregon.", "Banker");
+				+ "may hep getting started on the sddtrip to Oregon.", "Banker");
 		modes[1]=new Mode(800, "A middle-class guy. He has a smaller budget than the banker, "
 				+ "but will earn more points for his sucess.", "Carpenter");
 		modes [2] = new Mode (400,"A working-class farmer, "
